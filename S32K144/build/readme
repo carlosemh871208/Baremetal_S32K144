@@ -1,0 +1,3 @@
+build folder contains compilation script for full project.
+Once you add new SWC, please add it in this script.
+This makefile creates obj folder: that contains objects files and bin folder: contains binary file.

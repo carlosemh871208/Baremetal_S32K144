@@ -1,0 +1,4 @@
+Settings folder contains:
+* linker script
+* booloader code & implementation
+* startup file for microcontroller

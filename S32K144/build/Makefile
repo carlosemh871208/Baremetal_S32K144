@@ -10,7 +10,8 @@
 ########################################################################################################################
 
 #Get project directory
-TOPDIR = /home/carlos/Projects/S32K144 #Modify this direction according your project direction.
+#Modify this direction according your project direction.
+TOPDIR = /home/carlos/Projects/S32K144
 
 RM := rm -rf
 
